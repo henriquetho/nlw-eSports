@@ -6,7 +6,7 @@
 
 Projeto construido no evento Next Level Week da Rocktseat
 
-[Clique aqui para acessar](https://henriquetho.github.io/nlw-eSports/)
+[Clique aqui para acessar](https://github.com/henriquetho/nlw-eSports)
 
 ## Tecnologias
 
